@@ -1,0 +1,5 @@
+rethinkdb_data/
+.DS_Store
+client
+*.swp
+frontend/rtsupport/node_modules/
